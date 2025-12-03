@@ -8,3 +8,5 @@ Hola
 Siguiente
 
 Adios
+
+resolviendo conflictos
