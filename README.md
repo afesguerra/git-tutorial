@@ -6,3 +6,7 @@ Hola
 
 ¿Bien y tú?
 Siguiente
+
+Adios
+
+resolviendo conflictos
